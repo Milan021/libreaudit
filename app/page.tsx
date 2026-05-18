@@ -379,6 +379,7 @@ export default function Home() {
 
   const results = computeScore(selectedProducts);
   const toggleProduct = (p: any) => setSelectedProducts((prev) => prev.find((x) => x.name === p.name) ? prev.filter((x) => x.name !== p.name) : [...prev, p]);
+  const notify = async (data: any) => { try { await fetch("/api/notify", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(data) }); } catch (e) { console.log("[notify error]", e); } };
   const filteredProducts = (PROPRIETARY_DB[activeCat] || []).filter((p: any) => p.name.toLowerCase().includes(searchTerm.toLowerCase()));
 
   const css = `
@@ -603,7 +604,7 @@ export default function Home() {
                 <div style={{ fontSize: 13, color: P.textMuted, marginBottom: 14 }}>Optionnel — un rapport détaillé avec recommandations personnalisées.</div>
                 <div style={{ display: "flex", gap: 10, maxWidth: 420, margin: "0 auto" }}>
                   <input type="email" placeholder="votre@email.com" value={emailForPdf} onChange={(e) => setEmailForPdf(e.target.value)} style={{ ...inputStyle, flex: 1 }} />
-                  <button onClick={() => { if (emailForPdf.includes("@")) { console.log("[LEAD]", { email: emailForPdf, orgName, products: selectedProducts.map(p => p.name), score: results.score }); setEmailSent(true); } }} style={{ ...btnPrimary, padding: "12px 20px", fontSize: 13 }}>Envoyer</button>
+                  <button onClick={() => { if (emailForPdf.includes("@")) { notify({ type: "lead", email: emailForPdf, orgName, products: selectedProducts.map(p => p.name), score: results.score }); setEmailSent(true); } }} style={{ ...btnPrimary, padding: "12px 20px", fontSize: 13 }}>Envoyer</button>
                 </div>
               </>
             )}
@@ -655,7 +656,7 @@ export default function Home() {
                     />
                     <button
                       onClick={() => {
-                        console.log("[SATISFACTION]", { score: satisfaction, comment: satisfactionComment, auditScore: results.score, orgName, products: selectedProducts.length });
+                        notify({ type: "satisfaction", satisfaction, comment: satisfactionComment, score: results.score, orgName, products: selectedProducts.length });
                         setSatisfactionSent(true);
                       }}
                       style={{ ...btnPrimary, width: "100%", padding: "11px" }}
@@ -771,7 +772,7 @@ export default function Home() {
                       <button onClick={(e) => { e.stopPropagation(); toggleProduct(p); }} style={{ background: "none", border: "none", color: P.textLight, cursor: "pointer", fontSize: 14, padding: "0 4px" }}>×</button>
                     </div>
                   ))}
-                  <button onClick={() => setPage("results")} style={{ ...btnPrimary, width: "100%", marginTop: 14, padding: "11px" }}>Voir les résultats →</button>
+                  <button onClick={() => { setPage("results"); notify({ type: "audit", orgName, products: selectedProducts.map(p => p.name), score: results.score, risk: results.risk }); }} style={{ ...btnPrimary, width: "100%", marginTop: 14, padding: "11px" }}>Voir les résultats →</button>
                 </div>
               )}
               {selectedProducts.length === 0 && (
