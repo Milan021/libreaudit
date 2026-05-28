@@ -1,0 +1,11 @@
+Categorie,Indicateur,Valeur,Source
+TCO,licensing,"Proprietaire: Abonnement SaaS ou licence perpetuelle + maintenance 18-25%/an | OSS: Licence gratuite, support optionnel | Indice: OSS 3-5x moins cher sur licensing",Gartner TCO Framework
+TCO,implementation,"Proprietaire: Consultants certifies, formation officielle, 6-18 mois | OSS: Consultants independants, communaute, 3-12 mois | Indice: Comparable, depend de la complexite",Gartner TCO Framework
+TCO,maintenance,"Proprietaire: Incluse en SaaS, 15-22% pour on-premise | OSS: Support communautaire gratuit, ou contrat commercial 10-20% du cout implementation | Indice: OSS 2-4x moins cher",Gartner TCO Framework
+TCO,formation,"Proprietaire: Formation certifiee editeur, 774$/employe moyenne (Training Magazine 2024) | OSS: Auto-formation, MOOC, documentation communautaire | Indice: OSS 2-3x moins cher",Gartner TCO Framework
+TCO,lock_in,"Proprietaire: 1.5-2x le cout annuel d'abonnement (McKinsey) | OSS: Donnees ouvertes, formats standards, migration facilitee | Indice: OSS 5-10x moins cher en sortie",Gartner TCO Framework
+TCO,downtime,"Proprietaire: SLA editeur, mais dependance totale | OSS: Self-hosted = controle, mais responsabilite interne | Indice: N/A",Gartner TCO Framework
+Benchmark,depenses_erp,62% des depenses ERP incluront l'IA d'ici 2027 (vs 14% en 2024) | Impact: Acceleration du lock-in IA proprietaire,Gartner / IDC
+Benchmark,adoption_oss,83% des entreprises ont augmente leur usage OSS pour reduire TCO | Impact: Normalisation de l'open source en enterprise,Synopsys 2025
+Benchmark,saas_budget,67% des entreprises depassent leur budget SaaS initial | Impact: Couts imprevisibles du proprietaire,Gartner 2022
+Benchmark,migration_cost,Cout migration = 1.5-2x le cout annuel d'abonnement | Impact: Lock-in financier fort,McKinsey

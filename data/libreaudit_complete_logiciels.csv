@@ -1,0 +1,99 @@
+ID,Categorie,Logiciel Proprietaire,Editeur,Description,Difficulte Migration,Nb Alternatives OSS,URL
+bureautique_microsoft_365,Bureautique & Productivite,Microsoft 365,Microsoft,"Suite bureautique cloud avec Word, Excel, PowerPoint, Outlook, Teams",Moyenne,4,https://www.microsoft.com/microsoft-365
+bureautique_google_workspace,Bureautique & Productivite,Google Workspace,Google (Alphabet),"Suite collaborative cloud avec Docs, Sheets, Slides, Gmail, Drive",Moyenne,3,https://workspace.google.com
+bureautique_apple_iwork,Bureautique & Productivite,Apple iWork,Apple Inc.,"Pages, Numbers, Keynote - suite bureautique Apple",Faible,2,https://www.apple.com/iwork
+collaboration_microsoft_teams,Collaboration & Communication,Microsoft Teams,Microsoft,"Plateforme de collaboration unifiee (chat, visio, partage de fichiers)",Faible,4,https://www.microsoft.com/microsoft-teams
+collaboration_slack,Collaboration & Communication,Slack,Salesforce,"Messagerie d'entreprise par canaux, integrations riches",Faible,3,https://slack.com
+collaboration_zoom,Collaboration & Communication,Zoom,Zoom Video Communications,"Visioconference, webinars, telephonie cloud",Faible,4,https://zoom.us
+collaboration_google_meet,Collaboration & Communication,Google Meet,Google (Alphabet),Visioconference integree Google Workspace,Faible,2,https://meet.google.com
+crm_salesforce,CRM & Relation Client,Salesforce,Salesforce Inc.,"CRM cloud leader, gestion de la relation client, marketing automation",Elevee,5,https://www.salesforce.com
+crm_hubspot_crm,CRM & Relation Client,HubSpot CRM,HubSpot Inc.,"CRM gratuit/freemium avec marketing, sales, service hubs",Moyenne,3,https://www.hubspot.com
+crm_pipedrive,CRM & Relation Client,Pipedrive,Pipedrive,"CRM pipeline, vente, suivi commercial",Moyenne,2,https://www.pipedrive.com
+erp_sap_s_4hana,ERP & Gestion d'Entreprise,SAP S/4HANA,SAP SE,"ERP leader mondial, gestion integree des processus metier",Tres elevee,5,https://www.sap.com
+erp_oracle_netsuite,ERP & Gestion d'Entreprise,Oracle NetSuite,Oracle Corporation,"ERP cloud pour PME/ETI, financier, CRM, e-commerce",Elevee,3,https://www.netsuite.com
+erp_microsoft_dynamics_365,ERP & Gestion d'Entreprise,Microsoft Dynamics 365,Microsoft,"ERP/CRM cloud modulaire, finance, supply chain, RH",Elevee,3,https://dynamics.microsoft.com
+erp_infor_cloudsuite,ERP & Gestion d'Entreprise,Infor CloudSuite,Infor (Koch Industries),"ERP cloud, verticalise par industrie",Elevee,2,https://www.infor.com
+bi_tableau,Business Intelligence & Analytics,Tableau,Salesforce,"Visualisation de donnees, dashboards interactifs, analytics",Moyenne,5,https://www.tableau.com
+bi_power_bi,Business Intelligence & Analytics,Power BI,Microsoft,"Business analytics, visualisation, reporting integre Microsoft",Moyenne,3,https://powerbi.microsoft.com
+bi_qlik_sense,Business Intelligence & Analytics,Qlik Sense,Qlik (Thoma Bravo),"BI associative, data discovery, visualisation",Moyenne,2,https://www.qlik.com
+cloud_stockage_dropbox,Cloud & Stockage,Dropbox,Dropbox Inc.,"Stockage cloud, synchronisation de fichiers, partage",Faible,4,https://www.dropbox.com
+cloud_stockage_google_drive,Cloud & Stockage,Google Drive,Google (Alphabet),"Stockage cloud, suite bureautique integree, partage",Faible,2,https://drive.google.com
+cloud_stockage_onedrive,Cloud & Stockage,OneDrive,Microsoft,Stockage cloud integre Windows/Office 365,Faible,2,https://onedrive.live.com
+cloud_stockage_box,Cloud & Stockage,Box,Box Inc.,"Stockage cloud entreprise, collaboration, workflow",Faible,2,https://www.box.com
+devops_github,DevOps & Infrastructure,GitHub,Microsoft,"Hebergement de code, CI/CD, gestion de projet, copilot",Faible,4,https://github.com
+devops_jenkins_(cloudbees),DevOps & Infrastructure,Jenkins (CloudBees),CloudBees,"CI/CD, automation, orchestration de pipelines",Faible,5,https://www.cloudbees.com
+devops_gitlab_(saas_payant),DevOps & Infrastructure,GitLab (SaaS payant),GitLab Inc.,"Hebergement GitLab managed, CI/CD, DevOps",Faible,3,https://gitlab.com
+devops_datadog,DevOps & Infrastructure,Datadog,Datadog,"Monitoring cloud, APM, logs, infrastructure",Moyenne,4,https://www.datadoghq.com
+design_adobe_creative_cloud,Design & Creation Graphique,Adobe Creative Cloud,Adobe Inc.,"Suite creative : Photoshop, Illustrator, InDesign, Premiere, After Effects",Moyenne,6,https://www.adobe.com/creativecloud
+design_figma,Design & Creation Graphique,Figma,Figma (Adobe - rachat en cours),"Design UI/UX collaboratif, prototypage, design systems",Moyenne,3,https://www.figma.com
+design_canva,Design & Creation Graphique,Canva,Canva,"Design graphique simplifie, templates, collaboration",Faible,3,https://www.canva.com
+video_adobe_premiere_pro,Montage Video & Audio,Adobe Premiere Pro,Adobe Inc.,"Montage video professionnel, etalonnage, effets",Moyenne,5,https://www.adobe.com/products/premiere
+video_final_cut_pro,Montage Video & Audio,Final Cut Pro,Apple Inc.,"Montage video pro pour Mac, optimisation Apple Silicon",Faible,3,https://www.apple.com/final-cut-pro
+securite_crowdstrike_falcon,Securite Informatique,CrowdStrike Falcon,CrowdStrike,"EDR (Endpoint Detection and Response), threat intelligence",Elevee,4,https://www.crowdstrike.com
+securite_symantec_broadcom,Securite Informatique,Symantec/Broadcom,Broadcom,"Antivirus, endpoint protection, DLP",Elevee,3,https://www.broadcom.com/products/cyber-security
+securite_palo_alto_networks,Securite Informatique,Palo Alto Networks,Palo Alto Networks,"Firewall next-gen, SD-WAN, cloud security",Elevee,3,https://www.paloaltonetworks.com
+securite_fortinet_fortigate,Securite Informatique,Fortinet FortiGate,Fortinet,"Firewall UTM, SD-WAN, endpoint security",Elevee,2,https://www.fortinet.com
+gestion_projet_jira,Gestion de Projet & Agile,Jira,Atlassian,"Gestion de projet agile, tickets, workflows, reporting",Moyenne,6,https://www.atlassian.com/software/jira
+gestion_projet_trello,Gestion de Projet & Agile,Trello,Atlassian,"Kanban simple, gestion de taches visuelle",Faible,4,https://trello.com
+gestion_projet_notion,Gestion de Projet & Agile,Notion,Notion Labs,"Workspace all-in-one : notes, bases de donnees, wikis, projets",Faible,5,https://www.notion.so
+gestion_projet_mondaycom,Gestion de Projet & Agile,Monday.com,monday.com,"Work OS, gestion de projet, CRM, workflow",Moyenne,3,https://monday.com
+email_microsoft_exchange_online,Messagerie & Email,Microsoft Exchange Online,Microsoft,"Messagerie d'entreprise cloud, calendrier, contacts",Moyenne,5,https://www.microsoft.com/microsoft-365/exchange
+email_google_workspace_gmail,Messagerie & Email,Google Workspace Gmail,Google (Alphabet),"Messagerie cloud, calendrier, contacts, integration Google",Moyenne,3,https://workspace.google.com
+email_microsoft_exchange_server_(on-premise),Messagerie & Email,Microsoft Exchange Server (on-premise),Microsoft,"Serveur mail on-premise, calendrier, contacts",Elevee,3,https://www.microsoft.com/exchange
+base_donnees_oracle_database,Bases de Donnees,Oracle Database,Oracle Corporation,"SGBD relationnel leader, haute performance, enterprise",Elevee,4,https://www.oracle.com/database
+base_donnees_microsoft_sql_server,Bases de Donnees,Microsoft SQL Server,Microsoft,"SGBD relationnel Microsoft, integration ecosysteme Windows",Elevee,3,https://www.microsoft.com/sql-server
+base_donnees_mongodb_atlas,Bases de Donnees,MongoDB Atlas,MongoDB Inc.,"Base de donnees NoSQL document, cloud managed",Moyenne,3,https://www.mongodb.com/atlas
+base_donnees_amazon_rds___aurora,Bases de Donnees,Amazon RDS / Aurora,Amazon Web Services,"Base de donnees managed cloud, scaling automatique",Moyenne,3,https://aws.amazon.com/rds
+virtualisation_vmware_vsphere,Virtualisation & Conteneurs,VMware vSphere,Broadcom,"Virtualisation serveur, cloud prive, SDDC",Elevee,5,https://www.broadcom.com/products/software/virtualization
+virtualisation_docker_desktop_(entreprise),Virtualisation & Conteneurs,Docker Desktop (entreprise),Docker Inc.,"Conteneurisation, orchestration locale, Docker Hub",Faible,3,https://www.docker.com
+virtualisation_citrix_hypervisor_(ancien_xenserver),Virtualisation & Conteneurs,Citrix Hypervisor (ancien XenServer),Cloud Software Group,"Virtualisation serveur, VDI, cloud",Elevee,3,https://www.xenserver.com
+ia_ml_openai_gpt-4___chatgpt_enterprise,Intelligence Artificielle & Machine Learning,OpenAI GPT-4 / ChatGPT Enterprise,OpenAI,"LLM conversationnel, generation de texte, API",Moyenne,5,https://openai.com
+ia_ml_midjourney,Intelligence Artificielle & Machine Learning,Midjourney,Midjourney Inc.,"Generation d'images par IA, Discord-based",Faible,4,https://www.midjourney.com
+ia_ml_github_copilot,Intelligence Artificielle & Machine Learning,GitHub Copilot,Microsoft / OpenAI,"Assistant de code IA, autocompletion, generation",Faible,4,https://github.com/features/copilot
+ia_ml_anthropic_claude,Intelligence Artificielle & Machine Learning,Anthropic Claude,Anthropic,"LLM conversationnel, assistant IA, API",Faible,3,https://www.anthropic.com
+cms_wordpresscom_(payant),CMS & Gestion de Contenu,WordPress.com (payant),Automattic,"Hebergement WordPress managed, themes, plugins",Faible,5,https://wordpress.com
+cms_webflow,CMS & Gestion de Contenu,Webflow,Webflow Inc.,"Site builder visuel, CMS headless, hosting",Moyenne,4,https://webflow.com
+cms_shopify,CMS & Gestion de Contenu,Shopify,Shopify Inc.,"E-commerce SaaS, boutique en ligne, paiement",Moyenne,4,https://www.shopify.com
+rh_paie_workday,RH & Paie,Workday,Workday Inc.,"RH, paie, talent management, finance cloud",Elevee,4,https://www.workday.com
+rh_paie_sap_successfactors,RH & Paie,SAP SuccessFactors,SAP SE,"RH cloud, recrutement, formation, paie",Elevee,3,https://www.sap.com/products/hcm.html
+rh_paie_bamboohr,RH & Paie,BambooHR,BambooHR,"RH cloud, recrutement, onboarding, reporting",Moyenne,2,https://www.bamboohr.com
+comptabilite_quickbooks,Comptabilite & Finance,QuickBooks,Intuit Inc.,"Comptabilite cloud, facturation, paie",Moyenne,5,https://quickbooks.intuit.com
+comptabilite_sage_intacct,Comptabilite & Finance,Sage Intacct,Sage Group,"Comptabilite cloud, ERP financier",Elevee,3,https://www.sageintacct.com
+comptabilite_xero,Comptabilite & Finance,Xero,Xero,"Comptabilite cloud, facturation, banque",Moyenne,2,https://www.xero.com
+signature_electronique_docusign,Signature Electronique,DocuSign,DocuSign Inc.,"Signature electronique, workflow de validation",Moyenne,4,https://www.docusign.com
+signature_electronique_adobe_sign,Signature Electronique,Adobe Sign,Adobe Inc.,"Signature electronique, integration Adobe",Moyenne,2,https://www.adobe.com/sign
+signature_electronique_hellosign_(dropbox),Signature Electronique,HelloSign (Dropbox),Dropbox,"Signature electronique, integration Dropbox",Moyenne,2,https://www.hellosign.com
+veille_veo_google_analytics,Veille & SEO,Google Analytics,Google (Alphabet),"Analytics web, tracking, rapports",Faible,4,https://analytics.google.com
+veille_veo_semrush,Veille & SEO,SEMrush,SEMrush,"SEO, SEM, veille concurrentielle, analytics",Moyenne,3,https://www.semrush.com
+veille_veo_ahrefs,Veille & SEO,Ahrefs,Ahrefs,"SEO, backlinks, veille concurrentielle",Moyenne,2,https://ahrefs.com
+telephonie_ringcentral,Telephonie & VoIP,RingCentral,RingCentral Inc.,"Telephonie cloud, VoIP, video, SMS",Moyenne,4,https://www.ringcentral.com
+telephonie_twilio,Telephonie & VoIP,Twilio,Twilio Inc.,"API telephonie, SMS, voix, video programmable",Elevee,4,https://www.twilio.com
+telephonie_avaya_cloud_office,Telephonie & VoIP,Avaya Cloud Office,Avaya,"Telephonie cloud, UCaaS, contact center",Elevee,2,https://www.avaya.com
+ged_sharepoint,GED & Gestion Documentaire,SharePoint,Microsoft,"GED, intranet, collaboration documentaire",Elevee,5,https://www.microsoft.com/sharepoint
+ged_docuware,GED & Gestion Documentaire,DocuWare,DocuWare (Ricoh),"GED cloud, workflow, archivage electronique",Elevee,3,https://www.docuware.com
+ged_m-files,GED & Gestion Documentaire,M-Files,M-Files,"GED metadata-driven, workflow, compliance",Elevee,2,https://www.m-files.com
+iaas_paas_amazon_aws,IaaS / PaaS Cloud,Amazon AWS,Amazon,"Cloud computing, IaaS, PaaS, serverless",Tres elevee,5,https://aws.amazon.com
+iaas_paas_microsoft_azure,IaaS / PaaS Cloud,Microsoft Azure,Microsoft,"Cloud computing, IaaS, PaaS, AI services",Tres elevee,3,https://azure.microsoft.com
+iaas_paas_google_cloud_platform,IaaS / PaaS Cloud,Google Cloud Platform,Google (Alphabet),"Cloud computing, IaaS, PaaS, data analytics",Tres elevee,3,https://cloud.google.com
+iaas_paas_heroku,IaaS / PaaS Cloud,Heroku,Salesforce,"PaaS, deployment d'applications, managed services",Moyenne,4,https://www.heroku.com
+mfa_auth_okta,Authentification & MFA,Okta,Okta Inc.,"SSO, IAM, MFA, gestion d'identites",Elevee,5,https://www.okta.com
+mfa_auth_auth0,Authentification & MFA,Auth0,Okta,"Authentication-as-a-service, SSO, MFA",Elevee,3,https://auth0.com
+mfa_auth_microsoft_entra_id_(azure_ad),Authentification & MFA,Microsoft Entra ID (Azure AD),Microsoft,"IAM cloud, SSO, MFA, conditional access",Elevee,3,https://www.microsoft.com/security/business/identity-access/microsoft-entra-id
+backup_veeam,Backup & Disaster Recovery,Veeam,Veeam Software,"Backup, replication, disaster recovery",Moyenne,5,https://www.veeam.com
+backup_acronis_cyber_backup,Backup & Disaster Recovery,Acronis Cyber Backup,Acronis,"Backup, disaster recovery, cyber protection",Moyenne,3,https://www.acronis.com
+backup_commvault,Backup & Disaster Recovery,Commvault,Commvault,"Data protection, backup, cloud migration",Elevee,3,https://www.commvault.com
+vpn_reseau_cisco_anyconnect___umbrella,VPN & Reseau,Cisco AnyConnect / Umbrella,Cisco,"VPN, DNS security, SASE, zero trust",Moyenne,5,https://www.cisco.com
+vpn_reseau_zscaler,VPN & Reseau,Zscaler,Zscaler,"Zero trust, SASE, cloud security platform",Elevee,3,https://www.zscaler.com
+vpn_reseau_palo_alto_prisma_access,VPN & Reseau,Palo Alto Prisma Access,Palo Alto Networks,"SASE, zero trust, cloud-delivered security",Elevee,3,https://www.paloaltonetworks.com
+formation_elearning_cornerstone_ondemand,Formation & E-learning,Cornerstone OnDemand,Cornerstone,"LMS, talent management, formation",Elevee,5,https://www.cornerstoneondemand.com
+formation_elearning_docebo,Formation & E-learning,Docebo,Docebo,"LMS cloud, formation entreprise, AI-powered",Moyenne,3,https://www.docebo.com
+formation_elearning_sap_litmos,Formation & E-learning,SAP Litmos,SAP,"LMS cloud, formation, compliance",Moyenne,2,https://www.sap.com/products/litmos.html
+helpdesk_servicenow,Helpdesk & Support IT,ServiceNow,ServiceNow,"ITSM, ITOM, workflow enterprise, low-code",Tres elevee,5,https://www.servicenow.com
+helpdesk_zendesk,Helpdesk & Support IT,Zendesk,Zendesk,"Helpdesk, CRM, chat, analytics",Moyenne,3,https://www.zendesk.com
+helpdesk_freshdesk,Helpdesk & Support IT,Freshdesk,Freshworks,"Helpdesk, ITSM, service desk",Moyenne,3,https://www.freshworks.com/freshdesk
+cartographie_sig_arcgis,Cartographie & SIG,ArcGIS,Esri,"SIG professionnel, cartographie, geospatial analytics",Elevee,5,https://www.esri.com/arcgis
+cartographie_sig_google_maps_platform,Cartographie & SIG,Google Maps Platform,Google (Alphabet),"Cartographie, geocodage, navigation, Street View",Moyenne,4,https://mapsplatform.google.com
+cartographie_sig_mapbox,Cartographie & SIG,Mapbox,Mapbox,"Cartographie custom, navigation, geospatial",Moyenne,3,https://www.mapbox.com
+impression_papercut,Gestion d'Impression,PaperCut,PaperCut Software,"Print management, suivi impressions, securite",Moyenne,4,https://www.papercut.com
+impression_printerlogic,Gestion d'Impression,PrinterLogic,PrinterLogic (Vasion),"Print management cloud, serverless printing",Moyenne,2,https://www.printerlogic.com
+impression_hp_jetadvantage,Gestion d'Impression,HP JetAdvantage,HP,"Print management, securite, analytics",Moyenne,2,https://www.hp.com

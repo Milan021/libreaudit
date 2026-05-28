@@ -1,0 +1,341 @@
+Logiciel Proprietaire ID,Logiciel Proprietaire,Alternative OSS,Licence,Maturite,Communaute,Pays Origine,Compatibilite Formats,Fonctionnalites Cles,Support Commercial,URL
+bureautique_microsoft_365,Microsoft 365,LibreOffice,MPL-2.0,A,tres forte,DE,Native ODF + import/export Microsoft,"Writer, Calc, Impress, Base, Draw, Math","Collabora, TDF",https://www.libreoffice.org
+bureautique_microsoft_365,Microsoft 365,OnlyOffice,AGPL-3.0,A,forte,LV,100% compatible Microsoft,"Edition collaborative temps reel, integration Nextcloud",Ascensio System,https://www.onlyoffice.com
+bureautique_microsoft_365,Microsoft 365,CryptPad,AGPL-3.0,B,moyenne,FR,ODF + Markdown,"Chiffrement end-to-end, souverainete totale, hebergement francais",XWiki SAS,https://cryptpad.fr
+bureautique_microsoft_365,Microsoft 365,SoftMaker Office,Proprietaire (payant),B,faible,DE,Compatible Microsoft,"Leger, rapide, pas d'abonnement",SoftMaker,https://www.softmaker.com
+bureautique_google_workspace,Google Workspace,LibreOffice + Nextcloud,MPL-2.0 / AGPL-3.0,A,tres forte,DE,ODF + Microsoft,"Collaboration en ligne, partage de fichiers, integration complete",Nextcloud GmbH,https://nextcloud.com
+bureautique_google_workspace,Google Workspace,CryptPad,AGPL-3.0,B,moyenne,FR,ODF + Markdown,"Zero-knowledge, souverainete francaise",XWiki SAS,https://cryptpad.fr
+bureautique_google_workspace,Google Workspace,Zoho Office,Proprietaire,B,faible,IN,Microsoft + ODF,"Suite complete, alternative non-US",Zoho Corp,https://www.zoho.com
+bureautique_apple_iwork,Apple iWork,LibreOffice,MPL-2.0,A,tres forte,DE,ODF + Microsoft,"Multi-plateforme, complet",Collabora,https://www.libreoffice.org
+bureautique_apple_iwork,Apple iWork,OnlyOffice,AGPL-3.0,A,forte,LV,Microsoft,Collaboration temps reel,Ascensio,https://www.onlyoffice.com
+collaboration_microsoft_teams,Microsoft Teams,Mattermost,MIT,A,forte,US,API REST,"Self-hosted, Slack-like, haute securite, on-premise",Mattermost Inc.,https://mattermost.com
+collaboration_microsoft_teams,Microsoft Teams,Element (Matrix),Apache-2.0,A,tres forte,UK,Matrix protocol,"Federation, chiffrement E2E, souverainete des serveurs",Element (New Vector),https://element.io
+collaboration_microsoft_teams,Microsoft Teams,Rocket.Chat,MIT,A,forte,BR,API,"Omnichannel, self-hosted, tres personnalisable",Rocket.Chat Technologies,https://rocket.chat
+collaboration_microsoft_teams,Microsoft Teams,Jami,GPL-3.0,B,moyenne,CA,P2P,"P2P decentralise, pas de serveur, chiffrement E2E",Savoir-faire Linux,https://jami.net
+collaboration_slack,Slack,Mattermost,MIT,A,forte,US,API,"Alternative directe, self-hosted",Mattermost Inc.,https://mattermost.com
+collaboration_slack,Slack,Zulip,Apache-2.0,A,forte,US,API,"Threads organises, tres efficace pour grandes equipes",Kandra Labs,https://zulip.com
+collaboration_slack,Slack,Revolt,AGPL-3.0,C,moyenne,UK,API,"UI Discord-like, 100% open source",Communautaire,https://revolt.chat
+collaboration_zoom,Zoom,Jitsi Meet,Apache-2.0,A,tres forte,FR,WebRTC,"Self-hosted, chiffrement E2E optionnel, tres leger",8x8 / Communautaire,https://jitsi.org
+collaboration_zoom,Zoom,BigBlueButton,LGPL-3.0,A,forte,CA,WebRTC,"E-learning, partage d'ecran, sondages, integration Moodle",Blindside Networks,https://bigbluebutton.org
+collaboration_zoom,Zoom,Element Call,Apache-2.0,B,forte,UK,Matrix/WebRTC,"Integration Matrix, federation, E2E",Element,https://element.io
+collaboration_zoom,Zoom,PeerTube Live,AGPL-3.0,B,forte,FR,HLS/WebRTC,"Federe, pas de centralisation, souverainete",Framasoft,https://joinpeertube.org
+collaboration_google_meet,Google Meet,Jitsi Meet,Apache-2.0,A,tres forte,FR,WebRTC,"Self-hosted, E2E",8x8,https://jitsi.org
+collaboration_google_meet,Google Meet,BigBlueButton,LGPL-3.0,A,forte,CA,WebRTC,E-learning,Blindside Networks,https://bigbluebutton.org
+crm_salesforce,Salesforce,Odoo CRM,LGPL-3.0,A,tres forte,BE,API REST,"CRM integre ERP, modulaire, tres complet",Odoo SA,https://www.odoo.com
+crm_salesforce,Salesforce,SuiteCRM,AGPL-3.0,A,forte,UK,API,"Fork SugarCRM, mature, self-hosted",SalesAgility,https://suitecrm.com
+crm_salesforce,Salesforce,EspoCRM,GPL-3.0,B,moyenne,UA,API,"Leger, moderne, facile a deployer",EspoCRM,https://www.espocrm.com
+crm_salesforce,Salesforce,Dolibarr,GPL-3.0,A,forte,FR,API,"Francais, modulaire, ERP/CRM leger","DoliCloud, NLTechno",https://www.dolibarr.org
+crm_salesforce,Salesforce,CiviCRM,AGPL-3.0,A,forte,US,API,"Specialise associations/ONG, tres mature","Cividesk, etc.",https://civicrm.org
+crm_hubspot_crm,HubSpot CRM,Odoo CRM,LGPL-3.0,A,tres forte,BE,API,CRM + ERP integre,Odoo SA,https://www.odoo.com
+crm_hubspot_crm,HubSpot CRM,Mautic,GPL-3.0,A,forte,US,API,Marketing automation open source,Acquia,https://www.mautic.org
+crm_hubspot_crm,HubSpot CRM,EspoCRM,GPL-3.0,B,moyenne,UA,API,"Moderne, rapide",EspoCRM,https://www.espocrm.com
+crm_pipedrive,Pipedrive,Odoo CRM,LGPL-3.0,A,tres forte,BE,API,"Pipeline, opportunites",Odoo SA,https://www.odoo.com
+crm_pipedrive,Pipedrive,SuiteCRM,AGPL-3.0,A,forte,UK,API,"Pipeline, workflows",SalesAgility,https://suitecrm.com
+erp_sap_s_4hana,SAP S/4HANA,Odoo,LGPL-3.0,A,tres forte,BE,API REST,"ERP modulaire complet, 40+ modules, tres adaptable",Odoo SA + 500+ partenaires,https://www.odoo.com
+erp_sap_s_4hana,SAP S/4HANA,ERPNext,GPL-3.0,A,forte,IN,API REST,"Moderne, Frappe Framework, facile a customiser",Frappe Technologies,https://erpnext.com
+erp_sap_s_4hana,SAP S/4HANA,Dolibarr,GPL-3.0,A,forte,FR,API,"Francais, TPE/PME, tres accessible","DoliCloud, NLTechno",https://www.dolibarr.org
+erp_sap_s_4hana,SAP S/4HANA,iDempiere,GPL-2.0,A,moyenne,ID,API,"Fork Adempiere, mature, supply chain","TrekGlobal, etc.",https://www.idempiere.org
+erp_sap_s_4hana,SAP S/4HANA,Apache OFBiz,Apache-2.0,A,moyenne,US,API,"Tres mature, scalable, e-commerce integre",HotWax Systems,https://ofbiz.apache.org
+erp_oracle_netsuite,Oracle NetSuite,Odoo,LGPL-3.0,A,tres forte,BE,API,"Alternative directe, tres complete",Odoo SA,https://www.odoo.com
+erp_oracle_netsuite,Oracle NetSuite,ERPNext,GPL-3.0,A,forte,IN,API,"Moderne, cloud-ready",Frappe Technologies,https://erpnext.com
+erp_oracle_netsuite,Oracle NetSuite,Tryton,GPL-3.0,A,moyenne,FR,API,"Fork OpenERP, modulaire, tres technique","B2CK, Coopengo",https://www.tryton.org
+erp_microsoft_dynamics_365,Microsoft Dynamics 365,Odoo,LGPL-3.0,A,tres forte,BE,API,Alternative la plus complete,Odoo SA,https://www.odoo.com
+erp_microsoft_dynamics_365,Microsoft Dynamics 365,ERPNext,GPL-3.0,A,forte,IN,API,"Moderne, rapide a deployer",Frappe Technologies,https://erpnext.com
+erp_microsoft_dynamics_365,Microsoft Dynamics 365,Dolibarr,GPL-3.0,A,forte,FR,API,"Francais, accessible",DoliCloud,https://www.dolibarr.org
+erp_infor_cloudsuite,Infor CloudSuite,Odoo,LGPL-3.0,A,tres forte,BE,API,Verticalisation possible,Odoo SA,https://www.odoo.com
+erp_infor_cloudsuite,Infor CloudSuite,ERPNext,GPL-3.0,A,forte,IN,API,Multi-secteur,Frappe Technologies,https://erpnext.com
+bi_tableau,Tableau,Apache Superset,Apache-2.0,A,tres forte,US,SQL + API,"Dashboards riches, SQL Lab, tres scalable","Preset, Apache",https://superset.apache.org
+bi_tableau,Tableau,Metabase,AGPL-3.0,A,tres forte,US,SQL,"Tres facile d'usage, questions sans SQL, embedding",Metabase Inc.,https://www.metabase.com
+bi_tableau,Tableau,Grafana,AGPL-3.0,A,tres forte,SE,Multiple sources,"Visualisation temps reel, alerting, tres populaire",Grafana Labs,https://grafana.com
+bi_tableau,Tableau,Redash,BSD-2,A,forte,IL,SQL + API,"Requetage collaboratif, visualisations",Datorama (Salesforce) - attention lock-in,https://redash.io
+bi_tableau,Tableau,Pentaho / Hitachi Vantara,LGPL-2.1,A,moyenne,JP,Multiple,"ETL + BI integre, mature",Hitachi,https://www.hitachivantara.com
+bi_power_bi,Power BI,Apache Superset,Apache-2.0,A,tres forte,US,SQL,Alternative tres proche fonctionnellement,Preset,https://superset.apache.org
+bi_power_bi,Power BI,Metabase,AGPL-3.0,A,tres forte,US,SQL,Simplicite d'usage,Metabase Inc.,https://www.metabase.com
+bi_power_bi,Power BI,Grafana,AGPL-3.0,A,tres forte,SE,Multiple,Dashboards temps reel,Grafana Labs,https://grafana.com
+bi_qlik_sense,Qlik Sense,Apache Superset,Apache-2.0,A,tres forte,US,SQL,"Discovery, dashboards",Preset,https://superset.apache.org
+bi_qlik_sense,Qlik Sense,Metabase,AGPL-3.0,A,tres forte,US,SQL,"Questions, exploration",Metabase Inc.,https://www.metabase.com
+cloud_stockage_dropbox,Dropbox,Nextcloud,AGPL-3.0,A,tres forte,DE,WebDAV + API,"Self-hosted, collaboration integree, 100% souverain",Nextcloud GmbH,https://nextcloud.com
+cloud_stockage_dropbox,Dropbox,ownCloud,AGPL-3.0,A,forte,DE,WebDAV + API,"Enterprise focus, tres mature",ownCloud GmbH,https://owncloud.com
+cloud_stockage_dropbox,Dropbox,Seafile,AGPL-3.0,A,forte,CN,API,"Performant, sync rapide, deduplication",Seafile Ltd,https://www.seafile.com
+cloud_stockage_dropbox,Dropbox,Syncthing,MPL-2.0,A,forte,SE,P2P,"P2P decentralise, pas de serveur central",Communautaire,https://syncthing.net
+cloud_stockage_google_drive,Google Drive,Nextcloud,AGPL-3.0,A,tres forte,DE,WebDAV + API,Alternative complete avec bureautique,Nextcloud GmbH,https://nextcloud.com
+cloud_stockage_google_drive,Google Drive,CryptPad,AGPL-3.0,B,moyenne,FR,WebDAV-like,"Chiffrement E2E, souverainete francaise",XWiki SAS,https://cryptpad.fr
+cloud_stockage_onedrive,OneDrive,Nextcloud,AGPL-3.0,A,tres forte,DE,WebDAV + API,"Alternative directe, integration Windows",Nextcloud GmbH,https://nextcloud.com
+cloud_stockage_onedrive,OneDrive,ownCloud,AGPL-3.0,A,forte,DE,WebDAV + API,"Enterprise, tres mature",ownCloud GmbH,https://owncloud.com
+cloud_stockage_box,Box,Nextcloud,AGPL-3.0,A,tres forte,DE,WebDAV + API,"Enterprise, workflow",Nextcloud GmbH,https://nextcloud.com
+cloud_stockage_box,Box,ownCloud,AGPL-3.0,A,forte,DE,WebDAV + API,Enterprise focus,ownCloud GmbH,https://owncloud.com
+devops_github,GitHub,GitLab,MIT,A,tres forte,US,Git,"CI/CD integre, DevOps complet, self-hosted",GitLab Inc.,https://gitlab.com
+devops_github,GitHub,Gitea,MIT,A,tres forte,DE,Git,"Leger, rapide, facile a installer, fork Gogs",Communautaire,https://gitea.io
+devops_github,GitHub,Forgejo,MIT,A,forte,FR,Git,"Fork communautaire de Gitea, 100% libre",Codeberg,https://forgejo.org
+devops_github,GitHub,SourceHut,GPL-2.0,B,moyenne,US,Git + Mercurial,"Minimaliste, 100% open source, pas de JS",Drew DeVault,https://sourcehut.org
+devops_jenkins_(cloudbees),Jenkins (CloudBees),GitLab CI,MIT,A,tres forte,US,YAML,"Integre a GitLab, tres complet",GitLab Inc.,https://docs.gitlab.com/ee/ci/
+devops_jenkins_(cloudbees),Jenkins (CloudBees),GitHub Actions (libre),MIT,A,tres forte,US,YAML,"Tres populaire, mais proprietaire GitHub",Microsoft,https://github.com/features/actions
+devops_jenkins_(cloudbees),Jenkins (CloudBees),Drone CI,Apache-2.0,A,forte,US,YAML,"Leger, container-native, tres rapide",Harness,https://www.drone.io
+devops_jenkins_(cloudbees),Jenkins (CloudBees),Woodpecker CI,Apache-2.0,B,moyenne,DE,YAML,"Fork communautaire de Drone, 100% libre",Communautaire,https://woodpecker-ci.org
+devops_jenkins_(cloudbees),Jenkins (CloudBees),Buildbot,GPL-2.0,A,moyenne,US,Python,"Tres flexible, programmable",Communautaire,https://buildbot.net
+devops_gitlab_(saas_payant),GitLab (SaaS payant),Gitea,MIT,A,tres forte,DE,Git,"Self-hosted, leger",Communautaire,https://gitea.io
+devops_gitlab_(saas_payant),GitLab (SaaS payant),Forgejo,MIT,A,forte,FR,Git,"100% libre, fork Gitea",Codeberg,https://forgejo.org
+devops_gitlab_(saas_payant),GitLab (SaaS payant),GitLab CE (self-hosted),MIT,A,tres forte,US,Git,Version communautaire gratuite,GitLab Inc.,https://gitlab.com
+devops_datadog,Datadog,Prometheus + Grafana,Apache-2.0 / AGPL-3.0,A,tres forte,US/SE,Metrics,"Monitoring temps reel, alerting","Grafana Labs, Red Hat",https://prometheus.io
+devops_datadog,Datadog,Zabbix,GPL-2.0,A,tres forte,LV,SNMP/IPMI/Agent,"Monitoring complet, auto-discovery",Zabbix SIA,https://www.zabbix.com
+devops_datadog,Datadog,Nagios,GPL-2.0,A,tres forte,US,SNMP/Agent,"Pionnier monitoring, tres mature",Nagios Enterprises,https://www.nagios.org
+devops_datadog,Datadog,Icinga,GPL-2.0,A,forte,DE,API/Agent,"Fork Nagios, moderne, API REST",Icinga GmbH,https://icinga.com
+design_adobe_creative_cloud,Adobe Creative Cloud,GIMP,GPL-3.0,A,tres forte,US,"PSD (import), XCF, PNG, JPEG","Retouche photo pro, scripting, plugins",Communautaire,https://www.gimp.org
+design_adobe_creative_cloud,Adobe Creative Cloud,Krita,GPL-3.0,A,tres forte,NL,"PSD, ORA, PNG","Dessin numerique, animation, tres performant",Krita Foundation,https://krita.org
+design_adobe_creative_cloud,Adobe Creative Cloud,Inkscape,GPL-3.0,A,tres forte,US,"SVG, AI (import), PDF","Vectoriel pro, tres complet",Inkscape Consortium,https://inkscape.org
+design_adobe_creative_cloud,Adobe Creative Cloud,Scribus,GPL-2.0,A,forte,DE,"PDF, EPS, SVG","PAO pro, mise en page, CMYK",Communautaire,https://www.scribus.net
+design_adobe_creative_cloud,Adobe Creative Cloud,Blender,GPL-3.0,A,tres forte,NL,"FBX, OBJ, USD, GLTF","3D, animation, VFX, montage video, tres complet",Blender Foundation,https://www.blender.org
+design_adobe_creative_cloud,Adobe Creative Cloud,Penpot,MPL-2.0,B,forte,ES,SVG,"Design UI/UX, prototypage, web-based, open source",Kaleidos,https://penpot.app
+design_figma,Figma,Penpot,MPL-2.0,B,forte,ES,SVG,"Alternative directe Figma, open source, self-hosted",Kaleidos,https://penpot.app
+design_figma,Figma,Akira,GPL-3.0,C,moyenne,IT,SVG,"UI/UX native Linux, en developpement",Communautaire,https://github.com/akiraux/Akira
+design_figma,Figma,Lunacy,Proprietaire (gratuit),B,moyenne,CY,"Sketch, Figma","Gratuit, offline, compatible Sketch",Icons8,https://icons8.com/lunacy
+design_canva,Canva,Penpot,MPL-2.0,B,forte,ES,SVG,"Design UI/UX, prototypage",Kaleidos,https://penpot.app
+design_canva,Canva,Inkscape,GPL-3.0,A,tres forte,US,SVG,Vectoriel pro,Inkscape Consortium,https://inkscape.org
+design_canva,Canva,GIMP,GPL-3.0,A,tres forte,US,Multiple,Retouche photo,Communautaire,https://www.gimp.org
+video_adobe_premiere_pro,Adobe Premiere Pro,DaVinci Resolve (version gratuite),Proprietaire (gratuit),A,tres forte,AU,"ProRes, DNxHD, EXR","Etalonnage pro, montage, VFX, audio - version gratuite tres complete",Blackmagic Design,https://www.blackmagicdesign.com/products/davinciresolve
+video_adobe_premiere_pro,Adobe Premiere Pro,Blender (Video Sequencer),GPL-3.0,A,tres forte,NL,Multiple,"Montage, VFX, 3D integre",Blender Foundation,https://www.blender.org
+video_adobe_premiere_pro,Adobe Premiere Pro,Kdenlive,GPL-3.0,A,forte,FR,FFmpeg (tous formats),"Montage non-lineaire, effets, tres stable",KDE,https://kdenlive.org
+video_adobe_premiere_pro,Adobe Premiere Pro,Shotcut,GPL-3.0,A,forte,US,FFmpeg,"Leger, pas d'import requis, tres rapide",Meltytech,https://www.shotcut.org
+video_adobe_premiere_pro,Adobe Premiere Pro,Olive Video Editor,GPL-3.0,C,moyenne,AU,FFmpeg,"Moderne, node-based, en developpement",Communautaire,https://www.olivevideoeditor.org
+video_final_cut_pro,Final Cut Pro,DaVinci Resolve,Proprietaire (gratuit),A,tres forte,AU,ProRes,"Gratuit, tres pro, multi-plateforme",Blackmagic Design,https://www.blackmagicdesign.com/products/davinciresolve
+video_final_cut_pro,Final Cut Pro,Blender,GPL-3.0,A,tres forte,NL,Multiple,"Complet, gratuit",Blender Foundation,https://www.blender.org
+video_final_cut_pro,Final Cut Pro,Kdenlive,GPL-3.0,A,forte,FR,FFmpeg,"Stable, francais",KDE,https://kdenlive.org
+securite_crowdstrike_falcon,CrowdStrike Falcon,Wazuh,GPL-2.0,A,tres forte,US,OSSEC + ELK,"SIEM + EDR + FIM, tres complet, self-hosted",Wazuh Inc.,https://wazuh.com
+securite_crowdstrike_falcon,CrowdStrike Falcon,Suricata,GPL-2.0,A,tres forte,US,IDS/IPS,IDS/IPS haute performance,OISF,https://suricata.io
+securite_crowdstrike_falcon,CrowdStrike Falcon,Snort,GPL-2.0,A,tres forte,US,IDS/IPS,"Pionnier IDS, tres mature",Cisco Talos,https://www.snort.org
+securite_crowdstrike_falcon,CrowdStrike Falcon,OpenEDR,Apache-2.0,B,moyenne,US,API,"EDR open source, Xcitium",Xcitium,https://openedr.com
+securite_symantec_broadcom,Symantec/Broadcom,ClamAV,GPL-2.0,A,tres forte,US,Antivirus signatures,"Antivirus serveur, tres leger",Cisco,https://www.clamav.net
+securite_symantec_broadcom,Symantec/Broadcom,Wazuh,GPL-2.0,A,tres forte,US,EDR,EDR + SIEM complet,Wazuh Inc.,https://wazuh.com
+securite_symantec_broadcom,Symantec/Broadcom,OSSEC,GPL-2.0,A,forte,US,HIDS,"Host IDS, tres mature",Atomicorp,https://www.ossec.net
+securite_palo_alto_networks,Palo Alto Networks,pfSense,Apache-2.0,A,tres forte,US,Firewall,"Firewall complet, VPN, HA",Netgate,https://www.pfsense.org
+securite_palo_alto_networks,Palo Alto Networks,OPNsense,BSD-2,A,tres forte,NL,Firewall,"Fork pfSense, tres moderne, HardenedBSD",Deciso,https://opnsense.org
+securite_palo_alto_networks,Palo Alto Networks,IPFire,GPL-3.0,A,forte,DE,Firewall,"Leger, securise, tres stable",Lightning Wire Labs,https://www.ipfire.org
+securite_fortinet_fortigate,Fortinet FortiGate,pfSense,Apache-2.0,A,tres forte,US,Firewall,"UTM, VPN",Netgate,https://www.pfsense.org
+securite_fortinet_fortigate,Fortinet FortiGate,OPNsense,BSD-2,A,tres forte,NL,Firewall,"UTM, moderne",Deciso,https://opnsense.org
+gestion_projet_jira,Jira,OpenProject,GPL-3.0,A,forte,DE,API,"Scrum/Kanban/Gantt, tres complet, self-hosted",OpenProject GmbH,https://www.openproject.org
+gestion_projet_jira,Jira,Taiga,AGPL-3.0,A,forte,ES,API,"Agile tres intuitif, beau design",Kaleidos,https://www.taiga.io
+gestion_projet_jira,Jira,Redmine,GPL-2.0,A,tres forte,JP,API,"Tres mature, plugins riches, Gantt","EasyRedmine, RedmineUP",https://www.redmine.org
+gestion_projet_jira,Jira,Focalboard (Mattermost),AGPL-3.0,B,forte,US,API,"Notion-like, open source, integration Mattermost",Mattermost,https://www.focalboard.com
+gestion_projet_jira,Jira,Wekan,MIT,A,forte,FI,API,"Kanban pur, tres leger, Meteor",Communautaire,https://wekan.github.io
+gestion_projet_jira,Jira,Planka,AGPL-3.0,B,moyenne,DE,API,"Trello-like, moderne, React",Communautaire,https://planka.app
+gestion_projet_trello,Trello,Wekan,MIT,A,forte,FI,API,"Alternative directe, self-hosted",Communautaire,https://wekan.github.io
+gestion_projet_trello,Trello,Planka,AGPL-3.0,B,moyenne,DE,API,"Moderne, beau",Communautaire,https://planka.app
+gestion_projet_trello,Trello,Focalboard,AGPL-3.0,B,forte,US,API,Notion/Trello-like,Mattermost,https://www.focalboard.com
+gestion_projet_trello,Trello,Kanboard,MIT,A,forte,FR,API,"Minimaliste, tres rapide, francais",Frederic Guillot,https://kanboard.org
+gestion_projet_notion,Notion,AppFlowy,AGPL-3.0,B,forte,SG,Markdown,"Notion-like, open source, local-first",AppFlowy,https://www.appflowy.io
+gestion_projet_notion,Notion,Anytype,Apache-2.0,B,forte,DE,Proprietaire (mais open),"Local-first, P2P sync, tres prometteur",Anytype,https://anytype.io
+gestion_projet_notion,Notion,Logseq,AGPL-3.0,B,forte,CN,Markdown + Org,"PKM, graphe de connaissances, local-first",Logseq Inc.,https://logseq.com
+gestion_projet_notion,Notion,Focalboard,AGPL-3.0,B,forte,US,API,"Notion-like, integration Mattermost",Mattermost,https://www.focalboard.com
+gestion_projet_notion,Notion,Outline,BSL-1.1,A,forte,US,Markdown,"Wiki d'entreprise, beau, self-hosted",Outline,https://www.getoutline.com
+gestion_projet_mondaycom,Monday.com,OpenProject,GPL-3.0,A,forte,DE,API,"Work packages, boards, Gantt",OpenProject GmbH,https://www.openproject.org
+gestion_projet_mondaycom,Monday.com,Taiga,AGPL-3.0,A,forte,ES,API,"Kanban, Scrum, epics",Kaleidos,https://www.taiga.io
+gestion_projet_mondaycom,Monday.com,Focalboard,AGPL-3.0,B,forte,US,API,"Boards, tables, calendar",Mattermost,https://www.focalboard.com
+email_microsoft_exchange_online,Microsoft Exchange Online,Postfix + Dovecot + Roundcube,IBM-1.0 / LGPL / GPL,A,tres forte,US/DE,IMAP/SMTP,"Stack mail classique, tres robuste, 100% souverain",Multiple,https://www.postfix.org
+email_microsoft_exchange_online,Microsoft Exchange Online,Mailcow,GPL-3.0,A,forte,DE,IMAP/SMTP/ActiveSync,"Dockerized, moderne, SOGo webmail, tres complet",The Infrastructure Company,https://mailcow.email
+email_microsoft_exchange_online,Microsoft Exchange Online,iRedMail,GPL,A,forte,CN,IMAP/SMTP,"Installation rapide, stack complete",iRedMail Pro,https://www.iredmail.org
+email_microsoft_exchange_online,Microsoft Exchange Online,Zimbra,GPL-2.0,A,forte,US,IMAP/SMTP/ActiveSync,"Collaboration complete, webmail pro",Synacor,https://www.zimbra.com
+email_microsoft_exchange_online,Microsoft Exchange Online,SOGo,GPL-3.0,A,forte,CA,IMAP/SMTP/ActiveSync,"Webmail moderne, calendrier, ActiveSync",Inverse,https://www.sogo.nu
+email_google_workspace_gmail,Google Workspace Gmail,Mailcow,GPL-3.0,A,forte,DE,IMAP/SMTP/ActiveSync,"Moderne, complet, self-hosted",The Infrastructure Company,https://mailcow.email
+email_google_workspace_gmail,Google Workspace Gmail,Zimbra,GPL-2.0,A,forte,US,IMAP/SMTP/ActiveSync,Collaboration complete,Synacor,https://www.zimbra.com
+email_google_workspace_gmail,Google Workspace Gmail,SOGo,GPL-3.0,A,forte,CA,IMAP/SMTP/ActiveSync,Webmail moderne,Inverse,https://www.sogo.nu
+email_microsoft_exchange_server_(on-premise),Microsoft Exchange Server (on-premise),Mailcow,GPL-3.0,A,forte,DE,IMAP/SMTP/ActiveSync,"Docker, moderne, SOGo",The Infrastructure Company,https://mailcow.email
+email_microsoft_exchange_server_(on-premise),Microsoft Exchange Server (on-premise),Zimbra,GPL-2.0,A,forte,US,IMAP/SMTP/ActiveSync,"Collaboration, webmail",Synacor,https://www.zimbra.com
+email_microsoft_exchange_server_(on-premise),Microsoft Exchange Server (on-premise),Postfix + Dovecot + Roundcube,IBM-1.0 / LGPL / GPL,A,tres forte,US/DE,IMAP/SMTP,"Stack classique, robuste",Multiple,https://www.postfix.org
+base_donnees_oracle_database,Oracle Database,PostgreSQL,PostgreSQL,A,tres forte,US,SQL standard,"SGBD relationnel le plus avance, JSON, GIS, FTS","EDB, 2ndQuadrant, Crunchy Data",https://www.postgresql.org
+base_donnees_oracle_database,Oracle Database,MariaDB,GPL-2.0,A,tres forte,FI,MySQL compatible,"Fork MySQL, tres performant, Galera Cluster",MariaDB Corporation,https://mariadb.org
+base_donnees_oracle_database,Oracle Database,MySQL,GPL-2.0,A,tres forte,US,SQL,"Tres populaire, mais attention rachat Oracle",Oracle,https://www.mysql.com
+base_donnees_oracle_database,Oracle Database,SQLite,Public Domain,A,tres forte,US,SQL,"Embarque, zero-config, tres fiable",Communautaire,https://www.sqlite.org
+base_donnees_microsoft_sql_server,Microsoft SQL Server,PostgreSQL,PostgreSQL,A,tres forte,US,SQL standard,Alternative la plus proche fonctionnellement,"EDB, etc.",https://www.postgresql.org
+base_donnees_microsoft_sql_server,Microsoft SQL Server,MariaDB,GPL-2.0,A,tres forte,FI,MySQL compatible,"Performant, cluster natif",MariaDB Corporation,https://mariadb.org
+base_donnees_microsoft_sql_server,Microsoft SQL Server,Firebird,IPL-1.0 / IDPL,A,moyenne,US,SQL,"Leger, embarque, compatible Delphi/InterBase",IBPhoenix,https://firebirdsql.org
+base_donnees_mongodb_atlas,MongoDB Atlas,PostgreSQL + JSONB,PostgreSQL,A,tres forte,US,SQL + JSON,"JSONB natif, peut remplacer MongoDB pour beaucoup de cas","EDB, etc.",https://www.postgresql.org
+base_donnees_mongodb_atlas,MongoDB Atlas,Apache CouchDB,Apache-2.0,A,forte,US,JSON/HTTP,"Replication master-master, REST API",IBM Cloudant,https://couchdb.apache.org
+base_donnees_mongodb_atlas,MongoDB Atlas,FerretDB,Apache-2.0,B,moyenne,PL,MongoDB wire protocol,Drop-in replacement MongoDB sur PostgreSQL,FerretDB Inc.,https://www.ferretdb.io
+base_donnees_amazon_rds___aurora,Amazon RDS / Aurora,PostgreSQL (self-hosted),PostgreSQL,A,tres forte,US,SQL,"Self-hosted, HA, replication","EDB, etc.",https://www.postgresql.org
+base_donnees_amazon_rds___aurora,Amazon RDS / Aurora,MariaDB (self-hosted),GPL-2.0,A,tres forte,FI,MySQL,"Self-hosted, Galera",MariaDB Corporation,https://mariadb.org
+base_donnees_amazon_rds___aurora,Amazon RDS / Aurora,CockroachDB (open core),BSL-1.1,A,forte,US,PostgreSQL,"Distributed SQL, scalable",Cockroach Labs,https://www.cockroachlabs.com
+virtualisation_vmware_vsphere,VMware vSphere,Proxmox VE,AGPL-3.0,A,tres forte,AT,KVM/LXC,"Hyperviseur complet, clustering, Ceph, backup, tres mature",Proxmox Server Solutions,https://www.proxmox.com
+virtualisation_vmware_vsphere,VMware vSphere,oVirt,GPL-2.0,A,forte,US,KVM,"Gestionnaire virtualisation, Red Hat heritage",Red Hat,https://www.ovirt.org
+virtualisation_vmware_vsphere,VMware vSphere,OpenStack,Apache-2.0,A,tres forte,US,API,"Cloud prive complet, tres scalable","Canonical, Red Hat, SUSE",https://www.openstack.org
+virtualisation_vmware_vsphere,VMware vSphere,XCP-ng,GPL-2.0,A,forte,FR,Xen,"Fork Citrix XenServer, 100% libre, francais",Vates,https://xcp-ng.org
+virtualisation_vmware_vsphere,VMware vSphere,KVM / QEMU,GPL-2.0 / LGPL-2.1,A,tres forte,US,KVM,"Hyperviseur natif Linux, tres performant","Red Hat, Canonical",https://www.linux-kvm.org
+virtualisation_docker_desktop_(entreprise),Docker Desktop (entreprise),Podman,Apache-2.0,A,tres forte,US,OCI,"Daemonless, rootless, compatible Docker CLI",Red Hat,https://podman.io
+virtualisation_docker_desktop_(entreprise),Docker Desktop (entreprise),containerd,Apache-2.0,A,tres forte,US,OCI,"Runtime standard, CNCF, tres leger",CNCF,https://containerd.io
+virtualisation_docker_desktop_(entreprise),Docker Desktop (entreprise),Buildah,Apache-2.0,A,forte,US,OCI,"Build d'images sans daemon, compatible Dockerfile",Red Hat,https://buildah.io
+virtualisation_citrix_hypervisor_(ancien_xenserver),Citrix Hypervisor (ancien XenServer),XCP-ng,GPL-2.0,A,forte,FR,Xen,"Fork Citrix, 100% libre, francais",Vates,https://xcp-ng.org
+virtualisation_citrix_hypervisor_(ancien_xenserver),Citrix Hypervisor (ancien XenServer),Proxmox VE,AGPL-3.0,A,tres forte,AT,KVM/LXC,Hyperviseur complet,Proxmox,https://www.proxmox.com
+virtualisation_citrix_hypervisor_(ancien_xenserver),Citrix Hypervisor (ancien XenServer),KVM / QEMU,GPL-2.0,A,tres forte,US,KVM,Natif Linux,Red Hat,https://www.linux-kvm.org
+ia_ml_openai_gpt-4___chatgpt_enterprise,OpenAI GPT-4 / ChatGPT Enterprise,Mistral AI (open-weights),Apache-2.0,A,tres forte,FR,API OpenAI-compatible,"LLM francais, souverainete europeenne, self-hostable",Mistral AI,https://mistral.ai
+ia_ml_openai_gpt-4___chatgpt_enterprise,OpenAI GPT-4 / ChatGPT Enterprise,Ollama,MIT,A,tres forte,US,GGUF,"Run LLMs localement, tres facile, multi-modeles",Ollama Inc.,https://ollama.com
+ia_ml_openai_gpt-4___chatgpt_enterprise,OpenAI GPT-4 / ChatGPT Enterprise,llama.cpp,MIT,A,tres forte,BG,GGUF,"Inference rapide CPU/GPU, tres optimise",Communautaire,https://github.com/ggerganov/llama.cpp
+ia_ml_openai_gpt-4___chatgpt_enterprise,OpenAI GPT-4 / ChatGPT Enterprise,vLLM,Apache-2.0,A,forte,US,API OpenAI-compatible,"Inference haute performance, PagedAttention",Anyscale,https://github.com/vllm-project/vllm
+ia_ml_openai_gpt-4___chatgpt_enterprise,OpenAI GPT-4 / ChatGPT Enterprise,Text Generation Inference (HuggingFace),Apache-2.0,A,forte,FR,API,"Production-ready, support multiple GPUs",HuggingFace,https://github.com/huggingface/text-generation-inference
+ia_ml_midjourney,Midjourney,Stable Diffusion,CreativeML Open RAIL-M,A,tres forte,UK,Checkpoint/Safetensors,"Generation image locale, tres personnalisable, LoRA",Stability AI,https://stability.ai
+ia_ml_midjourney,Midjourney,ComfyUI,GPL-3.0,A,tres forte,US,Stable Diffusion,"Interface node-based, tres puissante, workflows",Communautaire,https://github.com/comfyanonymous/ComfyUI
+ia_ml_midjourney,Midjourney,InvokeAI,Apache-2.0,A,forte,US,Stable Diffusion,"UI moderne, canvas, inpainting",Invoke AI,https://invoke.ai
+ia_ml_midjourney,Midjourney,Fooocus,GPL-3.0,B,forte,US,Stable Diffusion,"UI simplifiee, 1-clic, tres accessible",Communautaire,https://github.com/lllyasviel/Fooocus
+ia_ml_github_copilot,GitHub Copilot,Continue.dev,Apache-2.0,B,forte,US,VS Code / JetBrains,"Open-source, multi-LLM, local ou cloud, controle total",Continue,https://www.continue.dev
+ia_ml_github_copilot,GitHub Copilot,Tabby,Apache-2.0,B,moyenne,US,VS Code / Vim,"Self-hosted, open-source, compatible avec modeles locaux",TabbyML,https://tabby.tabbyml.com
+ia_ml_github_copilot,GitHub Copilot,Codeium (partiellement ouvert),Proprietaire (gratuit),A,forte,US,Multiple IDE,"Gratuit, mais proprietaire - attention",Codeium,https://codeium.com
+ia_ml_github_copilot,GitHub Copilot,Aider,Apache-2.0,B,forte,US,CLI,"Assistant CLI, multi-fichiers, git-aware",Communautaire,https://aider.chat
+ia_ml_anthropic_claude,Anthropic Claude,Mistral AI,Apache-2.0,A,tres forte,FR,API,"Souverainete EU, self-hostable",Mistral AI,https://mistral.ai
+ia_ml_anthropic_claude,Anthropic Claude,Ollama,MIT,A,tres forte,US,GGUF,"Local, facile",Ollama Inc.,https://ollama.com
+ia_ml_anthropic_claude,Anthropic Claude,llama.cpp,MIT,A,tres forte,BG,GGUF,Inference rapide,Communautaire,https://github.com/ggerganov/llama.cpp
+cms_wordpresscom_(payant),WordPress.com (payant),WordPress.org (self-hosted),GPL-2.0,A,tres forte,US,PHP/MySQL,"CMS le plus populaire, 60% du web, infini de plugins",Multiple,https://wordpress.org
+cms_wordpresscom_(payant),WordPress.com (payant),Drupal,GPL-2.0,A,tres forte,BE,PHP/MySQL,"Enterprise, tres securise, gouvernemental","Acquia, etc.",https://www.drupal.org
+cms_wordpresscom_(payant),WordPress.com (payant),Joomla,GPL-2.0,A,forte,NL,PHP/MySQL,"Mature, tres flexible, communautaire",Multiple,https://www.joomla.org
+cms_wordpresscom_(payant),WordPress.com (payant),Ghost,MIT,A,forte,UK,Node.js/MySQL,"Blogging moderne, rapide, newsletter",Ghost Foundation,https://ghost.org
+cms_wordpresscom_(payant),WordPress.com (payant),Grav,MIT,A,moyenne,US,PHP,"Flat-file CMS, tres rapide, pas de DB",Trilby Media,https://getgrav.org
+cms_webflow,Webflow,WordPress + Elementor (gratuit),GPL-2.0,A,tres forte,US,PHP/MySQL,"Builder visuel, tres complet, self-hosted",Multiple,https://wordpress.org
+cms_webflow,Webflow,Strapi,MIT,A,forte,FR,Node.js,"Headless CMS, API-first, 100% JS, francais",Strapi,https://strapi.io
+cms_webflow,Webflow,Directus,GPL-3.0,A,forte,US,Node.js/SQL,"Headless CMS, data platform, tres elegant",Directus,https://directus.io
+cms_webflow,Webflow,PocketBase,MIT,B,forte,BG,Go/SQLite,"Backend as a service, 1 fichier, tres leger",Communautaire,https://pocketbase.io
+cms_shopify,Shopify,WooCommerce (WordPress),GPL-3.0,A,tres forte,US,PHP/MySQL,"E-commerce complet, self-hosted",Automattic,https://woocommerce.com
+cms_shopify,Shopify,PrestaShop,OSL-3.0,A,tres forte,FR,PHP/MySQL,"E-commerce francais, tres populaire",PrestaShop SA,https://www.prestashop.com
+cms_shopify,Shopify,Magento (Adobe Commerce),OSL-3.0,A,forte,US,PHP/MySQL,"E-commerce enterprise, mais attention Adobe",Adobe,https://magento.com
+cms_shopify,Shopify,Odoo eCommerce,LGPL-3.0,A,tres forte,BE,API,E-commerce integre ERP,Odoo SA,https://www.odoo.com
+rh_paie_workday,Workday,Odoo RH,LGPL-3.0,A,tres forte,BE,API,"RH integre ERP, recrutement, presence, evaluation",Odoo SA,https://www.odoo.com
+rh_paie_workday,Workday,Dolibarr RH,GPL-3.0,A,forte,FR,API,"Modules RH, paie, conges, francais",DoliCloud,https://www.dolibarr.org
+rh_paie_workday,Workday,OrangeHRM,GPL-2.0,A,forte,LK,PHP/MySQL,"RH complete, tres mature",OrangeHRM,https://www.orangehrm.com
+rh_paie_workday,Workday,Sentrifugo,GPL-3.0,B,moyenne,IN,PHP/MySQL,"RH open source, timesheet, conges",Communautaire,https://www.sentrifugo.com
+rh_paie_sap_successfactors,SAP SuccessFactors,Odoo RH,LGPL-3.0,A,tres forte,BE,API,Alternative complete,Odoo SA,https://www.odoo.com
+rh_paie_sap_successfactors,SAP SuccessFactors,OrangeHRM,GPL-2.0,A,forte,LK,PHP/MySQL,"Mature, complete",OrangeHRM,https://www.orangehrm.com
+rh_paie_sap_successfactors,SAP SuccessFactors,Dolibarr RH,GPL-3.0,A,forte,FR,API,"Francais, modulaire",DoliCloud,https://www.dolibarr.org
+rh_paie_bamboohr,BambooHR,Odoo RH,LGPL-3.0,A,tres forte,BE,API,RH complete,Odoo SA,https://www.odoo.com
+rh_paie_bamboohr,BambooHR,OrangeHRM,GPL-2.0,A,forte,LK,PHP/MySQL,"Recrutement, onboarding",OrangeHRM,https://www.orangehrm.com
+comptabilite_quickbooks,QuickBooks,Dolibarr Comptabilite,GPL-3.0,A,forte,FR,API,"Compta francaise, facturation, tresse, conformite",DoliCloud,https://www.dolibarr.org
+comptabilite_quickbooks,QuickBooks,Odoo Comptabilite,LGPL-3.0,A,tres forte,BE,API,"Compta complete, multi-pays, rapports fiscaux",Odoo SA,https://www.odoo.com
+comptabilite_quickbooks,QuickBooks,GnuCash,GPL-2.0,A,forte,US,XML/OFX/QIF,"Compta personnelle/TPE, double-partie, OFX",Communautaire,https://www.gnucash.org
+comptabilite_quickbooks,QuickBooks,Ledger / hledger,BSD-3,A,moyenne,US,Texte,"Compta texte, tres puissant, scriptable",Communautaire,https://www.ledger-cli.org
+comptabilite_quickbooks,QuickBooks,Akaunting,GPL-3.0,B,forte,TR,PHP/MySQL,"Compta cloud, facturation, multi-devises",Akaunting,https://akaunting.com
+comptabilite_sage_intacct,Sage Intacct,Odoo Comptabilite,LGPL-3.0,A,tres forte,BE,API,"Alternative complete, multi-pays",Odoo SA,https://www.odoo.com
+comptabilite_sage_intacct,Sage Intacct,ERPNext Comptabilite,GPL-3.0,A,forte,IN,API,"Compta complete, rapports fiscaux",Frappe Technologies,https://erpnext.com
+comptabilite_sage_intacct,Sage Intacct,Dolibarr,GPL-3.0,A,forte,FR,API,"Francais, conformite fiscale FR",DoliCloud,https://www.dolibarr.org
+comptabilite_xero,Xero,Dolibarr,GPL-3.0,A,forte,FR,API,"Compta FR, banque",DoliCloud,https://www.dolibarr.org
+comptabilite_xero,Xero,Odoo Comptabilite,LGPL-3.0,A,tres forte,BE,API,"Multi-pays, banque",Odoo SA,https://www.odoo.com
+signature_electronique_docusign,DocuSign,LibreSign,AGPL-3.0,B,moyenne,BR,PDF,"Signature PDF, Nextcloud integration, PAdES",LibreCode,https://libresign.coop
+signature_electronique_docusign,DocuSign,Docspell,GPL-3.0,B,moyenne,DE,PDF,Gestion documentaire + workflow signature,Communautaire,https://docspell.org
+signature_electronique_docusign,DocuSign,SignServer,LGPL-3.0,A,moyenne,SE,PDF/XML,"Signature centralisee, PKI, EJBCA",Keyfactor,https://www.signserver.org
+signature_electronique_docusign,DocuSign,OpenSign,AGPL-3.0,C,moyenne,IN,PDF,Alternative DocuSign open source,OpenSignLabs,https://www.opensignlabs.com
+signature_electronique_adobe_sign,Adobe Sign,LibreSign,AGPL-3.0,B,moyenne,BR,PDF,"Signature PDF, Nextcloud",LibreCode,https://libresign.coop
+signature_electronique_adobe_sign,Adobe Sign,SignServer,LGPL-3.0,A,moyenne,SE,PDF/XML,Signature centralisee,Keyfactor,https://www.signserver.org
+signature_electronique_hellosign_(dropbox),HelloSign (Dropbox),LibreSign,AGPL-3.0,B,moyenne,BR,PDF,Signature PDF,LibreCode,https://libresign.coop
+signature_electronique_hellosign_(dropbox),HelloSign (Dropbox),SignServer,LGPL-3.0,A,moyenne,SE,PDF/XML,Signature centralisee,Keyfactor,https://www.signserver.org
+veille_veo_google_analytics,Google Analytics,Matomo,GPL-3.0,A,tres forte,NZ,PHP/MySQL,"Analytics 100% souverain, RGPD natif, self-hosted",InnoCraft,https://matomo.org
+veille_veo_google_analytics,Google Analytics,Plausible Analytics,AGPL-3.0,A,forte,EE,Elixir/PostgreSQL,"Leger, RGPD natif, pas de cookies, tres rapide",Plausible,https://plausible.io
+veille_veo_google_analytics,Google Analytics,Umami,MIT,A,forte,US,Node.js/PostgreSQL,"Simple, privacy-focused, self-hosted",Umami,https://umami.is
+veille_veo_google_analytics,Google Analytics,GoAccess,MIT,A,forte,US,Logs,"Analytics temps reel depuis logs, tres leger",Communautaire,https://goaccess.io
+veille_veo_semrush,SEMrush,Matomo SEO,GPL-3.0,A,tres forte,NZ,PHP/MySQL,"SEO integre, mots-cles, referrers",InnoCraft,https://matomo.org
+veille_veo_semrush,SEMrush,Serposcope,MIT,B,moyenne,FR,Java,"Tracking positions SEO, self-hosted",Communautaire,https://www.serposcope.com
+veille_veo_semrush,SEMrush,SEO Powersuite (partiel),Proprietaire,B,faible,UA,Desktop,"Outils SEO desktop, pas de cloud",Link-Assistant,https://www.link-assistant.com
+veille_veo_ahrefs,Ahrefs,Matomo,GPL-3.0,A,tres forte,NZ,PHP/MySQL,SEO integre,InnoCraft,https://matomo.org
+veille_veo_ahrefs,Ahrefs,Serposcope,MIT,B,moyenne,FR,Java,Tracking positions,Communautaire,https://www.serposcope.com
+telephonie_ringcentral,RingCentral,Asterisk,GPL-2.0,A,tres forte,US,SIP/IAX,"PBX complet, IVR, conference, voicemail, tres mature",Sangoma,https://www.asterisk.org
+telephonie_ringcentral,RingCentral,FreePBX,GPL-2.0,A,tres forte,US,SIP,"Interface web pour Asterisk, facile a gerer, modules riches",Sangoma,https://www.freepbx.org
+telephonie_ringcentral,RingCentral,FusionPBX,MPL-1.1,A,forte,US,SIP,"GUI pour FreeSWITCH, tres complet, multi-tenant",FusionPBX,https://www.fusionpbx.com
+telephonie_ringcentral,RingCentral,Wazo,GPL-3.0,A,moyenne,CA,SIP,"Platforme API-first, programmable, WebRTC",Wazo,https://wazo.io
+telephonie_twilio,Twilio,FreeSWITCH,MPL-1.1,A,tres forte,US,SIP/WebRTC,"Soft-switch complet, programmable, WebRTC, tres scalable",SignalWire,https://freeswitch.com
+telephonie_twilio,Twilio,Kamailio,GPL-2.0,A,tres forte,DE,SIP,"SIP router haute performance, 5000+ calls/sec, load balancing",Asipto,https://www.kamailio.org
+telephonie_twilio,Twilio,OpenSIPS,GPL-2.0,A,forte,RO,SIP,"SIP server, clustering, haute disponibilite",OpenSIPS Solutions,https://www.opensips.org
+telephonie_twilio,Twilio,Janus Gateway,GPL-3.0,A,forte,IT,WebRTC,"WebRTC server, SFU, MCU, tres flexible",Meetecho,https://janus.conf.meetecho.com
+telephonie_avaya_cloud_office,Avaya Cloud Office,Asterisk,GPL-2.0,A,tres forte,US,SIP,"PBX complet, contact center possible, IVR avance",Sangoma,https://www.asterisk.org
+telephonie_avaya_cloud_office,Avaya Cloud Office,FreePBX,GPL-2.0,A,tres forte,US,SIP,"Interface web, modules contact center, reporting",Sangoma,https://www.freepbx.org
+ged_sharepoint,SharePoint,Alfresco,LGPL-3.0,A,tres forte,UK,CMIS,"GED enterprise, workflow BPM, records management, tres mature",Hyland,https://www.alfresco.com
+ged_sharepoint,SharePoint,Nuxeo,Apache-2.0,A,forte,FR,CMIS,"Platforme documentaire moderne, API-first, AI integration, francais",Hyland,https://www.nuxeo.com
+ged_sharepoint,SharePoint,Mayan EDMS,Apache-2.0,A,forte,US,Multiple,"GED legere, OCR, workflow, digital signature, tres accessible",Communautaire,https://www.mayan-edms.com
+ged_sharepoint,SharePoint,Papermerge,Apache-2.0,B,moyenne,DE,PDF,"GED open source, OCR, tags, folders, automation",Papermerge,https://www.papermerge.com
+ged_sharepoint,SharePoint,OpenKM,GPL-2.0,A,forte,ES,Multiple,"GED complete, workflow, records management, OCR",OpenKM,https://www.openkm.com
+ged_docuware,DocuWare,Alfresco,LGPL-3.0,A,tres forte,UK,CMIS,"GED enterprise, alternative directe",Hyland,https://www.alfresco.com
+ged_docuware,DocuWare,Nuxeo,Apache-2.0,A,forte,FR,CMIS,"Moderne, API-first, francais",Hyland,https://www.nuxeo.com
+ged_docuware,DocuWare,Mayan EDMS,Apache-2.0,A,forte,US,Multiple,"Legere, OCR, workflow",Communautaire,https://www.mayan-edms.com
+ged_m-files,M-Files,Alfresco,LGPL-3.0,A,tres forte,UK,CMIS,"Metadata, workflow, tres mature",Hyland,https://www.alfresco.com
+ged_m-files,M-Files,Nuxeo,Apache-2.0,A,forte,FR,CMIS,"Metadata-driven, API-first, francais",Hyland,https://www.nuxeo.com
+iaas_paas_amazon_aws,Amazon AWS,OpenStack,Apache-2.0,A,tres forte,US,API,"Cloud prive complet, compute, storage, network, identity","Canonical, Red Hat, SUSE, Mirantis",https://www.openstack.org
+iaas_paas_amazon_aws,Amazon AWS,Apache CloudStack,Apache-2.0,A,forte,US,API,"IaaS complet, plus simple qu'OpenStack, tres scalable",Apache,https://cloudstack.apache.org
+iaas_paas_amazon_aws,Amazon AWS,Proxmox VE + Ceph,AGPL-3.0,A,tres forte,AT,KVM/LXC,"Cloud prive hyper-converge, storage distribue, clustering",Proxmox,https://www.proxmox.com
+iaas_paas_amazon_aws,Amazon AWS,oVirt + Gluster,GPL-2.0,A,forte,US,KVM,"Virtualisation + storage distribue, heritage Red Hat",Red Hat,https://www.ovirt.org
+iaas_paas_amazon_aws,Amazon AWS,KubeVirt + Kubernetes,Apache-2.0,A,tres forte,US,K8s,"VMs sur Kubernetes, cloud natif, CNI/CSI",Red Hat,https://kubevirt.io
+iaas_paas_microsoft_azure,Microsoft Azure,OpenStack,Apache-2.0,A,tres forte,US,API,"Alternative complete IaaS, multi-hypervisor","Canonical, Red Hat, SUSE",https://www.openstack.org
+iaas_paas_microsoft_azure,Microsoft Azure,Apache CloudStack,Apache-2.0,A,forte,US,API,"IaaS plus simple, Xen/KVM/VMware",Apache,https://cloudstack.apache.org
+iaas_paas_microsoft_azure,Microsoft Azure,Proxmox VE,AGPL-3.0,A,tres forte,AT,KVM/LXC,"Hyper-converge, Ceph, backup",Proxmox,https://www.proxmox.com
+iaas_paas_google_cloud_platform,Google Cloud Platform,OpenStack,Apache-2.0,A,tres forte,US,API,Alternative IaaS,"Canonical, Red Hat, SUSE",https://www.openstack.org
+iaas_paas_google_cloud_platform,Google Cloud Platform,Apache CloudStack,Apache-2.0,A,forte,US,API,IaaS simple,Apache,https://cloudstack.apache.org
+iaas_paas_google_cloud_platform,Google Cloud Platform,Proxmox VE,AGPL-3.0,A,tres forte,AT,KVM/LXC,Cloud prive,Proxmox,https://www.proxmox.com
+iaas_paas_heroku,Heroku,Dokku,MIT,A,forte,US,Docker,"Mini-Heroku self-hosted, Git push deploy, tres leger",Dokku,https://dokku.com
+iaas_paas_heroku,Heroku,CapRover,Apache-2.0,A,forte,US,Docker,"PaaS open source, SSL auto, one-click apps",Communautaire,https://caprover.com
+iaas_paas_heroku,Heroku,Coolify,Apache-2.0,B,forte,HU,Docker,"PaaS moderne, UI elegante, self-hosted, Git integration",Coolify,https://coolify.io
+iaas_paas_heroku,Heroku,Portainer,Zlib,A,tres forte,NZ,Docker/K8s,"Container management, facile, self-hosted, multi-cluster",Portainer,https://www.portainer.io
+mfa_auth_okta,Okta,Keycloak,Apache-2.0,A,tres forte,US,OIDC/SAML/LDAP,"IAM complet, SSO, MFA, federation, social login, tres mature",Red Hat,https://www.keycloak.org
+mfa_auth_okta,Okta,Authentik,MIT,A,forte,US,OIDC/SAML/LDAP,"IAM moderne, UI belle, self-hosted, proxy provider, tres prometteur",Authentik,https://goauthentik.io
+mfa_auth_okta,Okta,Authelia,Apache-2.0,A,forte,AU,OIDC/LDAP,"SSO + 2FA pour reverse proxy, tres leger, integration Traefik/Nginx",Communautaire,https://www.authelia.com
+mfa_auth_okta,Okta,Dex,Apache-2.0,A,forte,US,OIDC,"Federation IDP, Kubernetes-native, connectors multiples",Communautaire,https://dexidp.io
+mfa_auth_okta,Okta,Gluu Server,Apache-2.0,A,forte,US,OIDC/UMA/SAML,"IAM enterprise, FIDO2, UMA, tres complet",Gluu,https://www.gluu.org
+mfa_auth_auth0,Auth0,Keycloak,Apache-2.0,A,tres forte,US,OIDC/SAML/LDAP,"Alternative directe, tres complete, self-hosted",Red Hat,https://www.keycloak.org
+mfa_auth_auth0,Auth0,Authentik,MIT,A,forte,US,OIDC/SAML/LDAP,"Moderne, belle UI, self-hosted, proxy",Authentik,https://goauthentik.io
+mfa_auth_auth0,Auth0,SuperTokens,MIT,B,forte,IN,OIDC,"Auth moderne, session management, self-hosted, multi-tenant",SuperTokens,https://supertokens.com
+mfa_auth_microsoft_entra_id_(azure_ad),Microsoft Entra ID (Azure AD),Keycloak,Apache-2.0,A,tres forte,US,OIDC/SAML/LDAP,"Alternative complete, federation, social login",Red Hat,https://www.keycloak.org
+mfa_auth_microsoft_entra_id_(azure_ad),Microsoft Entra ID (Azure AD),Authentik,MIT,A,forte,US,OIDC/SAML/LDAP,"Moderne, self-hosted, proxy provider",Authentik,https://goauthentik.io
+mfa_auth_microsoft_entra_id_(azure_ad),Microsoft Entra ID (Azure AD),FreeIPA,GPL-3.0,A,forte,US,LDAP/Kerberos,"Identity management, DNS, PKI, certificats, tres complet",Red Hat,https://www.freeipa.org
+backup_veeam,Veeam,BorgBackup,BSD-3,A,tres forte,CH,Deduplication,"Deduplication, chiffrement, compression, verification integrite, tres efficace",BorgBase,https://borgbackup.org
+backup_veeam,Veeam,Restic,BSD-2,A,tres forte,DE,Multiple backends,"Backup moderne, chiffrement, dedup, S3 compatible, verifiable",Communautaire,https://restic.net
+backup_veeam,Veeam,Kopia,Apache-2.0,A,forte,US,Multiple,"Backup moderne, GUI, cross-platform, dedup, policies",Kopia,https://kopia.io
+backup_veeam,Veeam,Duplicati,LGPL-2.1,A,forte,US,Multiple,"Backup cloud, chiffrement, compression, GUI, scheduling",Duplicati,https://www.duplicati.com
+backup_veeam,Veeam,UrBackup,AGPL-3.0,A,forte,DE,Image + File,"Backup client/serveur, image disque, file backup, web interface",Communautaire,https://www.urbackup.org
+backup_acronis_cyber_backup,Acronis Cyber Backup,BorgBackup,BSD-3,A,tres forte,CH,Deduplication,"Deduplication, chiffrement, verification",BorgBase,https://borgbackup.org
+backup_acronis_cyber_backup,Acronis Cyber Backup,Restic,BSD-2,A,tres forte,DE,Multiple,"Backup moderne, S3, verifiable",Communautaire,https://restic.net
+backup_acronis_cyber_backup,Acronis Cyber Backup,UrBackup,AGPL-3.0,A,forte,DE,Image + File,"Image disque, complet",Communautaire,https://www.urbackup.org
+backup_commvault,Commvault,BorgBackup,BSD-3,A,tres forte,CH,Deduplication,"Deduplication, chiffrement",BorgBase,https://borgbackup.org
+backup_commvault,Commvault,Restic,BSD-2,A,tres forte,DE,Multiple,Backup moderne,Communautaire,https://restic.net
+backup_commvault,Commvault,Kopia,Apache-2.0,A,forte,US,Multiple,"GUI, cross-platform",Kopia,https://kopia.io
+vpn_reseau_cisco_anyconnect___umbrella,Cisco AnyConnect / Umbrella,WireGuard,GPL-2.0,A,tres forte,US,UDP,"VPN moderne, tres rapide, simple, kernel integration, audit code",Multiple,https://www.wireguard.com
+vpn_reseau_cisco_anyconnect___umbrella,Cisco AnyConnect / Umbrella,OpenVPN,GPL-2.0,A,tres forte,US,SSL/TLS,"VPN SSL tres mature, flexible, multi-platform",OpenVPN Inc.,https://openvpn.net
+vpn_reseau_cisco_anyconnect___umbrella,Cisco AnyConnect / Umbrella,Tailscale,BSD-3 (client),A,tres forte,CA,WireGuard,"Mesh VPN, zero-config, NAT traversal, SSO integration",Tailscale Inc.,https://tailscale.com
+vpn_reseau_cisco_anyconnect___umbrella,Cisco AnyConnect / Umbrella,Headscale,BSD-3,A,forte,ES,WireGuard,"Self-hosted Tailscale control server, 100% open, mesh network",Communautaire,https://github.com/juanfont/headscale
+vpn_reseau_cisco_anyconnect___umbrella,Cisco AnyConnect / Umbrella,NetBird,BSD-2,B,forte,DE,WireGuard,"Zero-config VPN, self-hosted, ACL, activity monitoring",NetBird,https://netbird.io
+vpn_reseau_zscaler,Zscaler,WireGuard + Headscale,GPL-2.0 / BSD-3,A,tres forte,US/ES,WireGuard,"Zero trust self-hosted, mesh network, controle total",Multiple,https://www.wireguard.com
+vpn_reseau_zscaler,Zscaler,NetBird,BSD-2,B,forte,DE,WireGuard,"Zero trust, self-hosted, ACL, SSO",NetBird,https://netbird.io
+vpn_reseau_zscaler,Zscaler,OpenZiti,Apache-2.0,B,moyenne,US,Overlay,"Zero trust overlay network, programmable, SDK",NetFoundry,https://openziti.io
+vpn_reseau_palo_alto_prisma_access,Palo Alto Prisma Access,WireGuard,GPL-2.0,A,tres forte,US,UDP,"VPN rapide, simple, audite",Multiple,https://www.wireguard.com
+vpn_reseau_palo_alto_prisma_access,Palo Alto Prisma Access,NetBird,BSD-2,B,forte,DE,WireGuard,"Zero trust, self-hosted",NetBird,https://netbird.io
+vpn_reseau_palo_alto_prisma_access,Palo Alto Prisma Access,OpenZiti,Apache-2.0,B,moyenne,US,Overlay,"Overlay network, SDK",NetFoundry,https://openziti.io
+formation_elearning_cornerstone_ondemand,Cornerstone OnDemand,Moodle,GPL-3.0,A,tres forte,AU,PHP/MySQL,"LMS le plus populaire, 400M+ users, plugins riches, tres complet",Moodle Pty Ltd,https://moodle.org
+formation_elearning_cornerstone_ondemand,Cornerstone OnDemand,Canvas LMS (Open Source),AGPL-3.0,A,forte,US,Ruby/PostgreSQL,"LMS moderne, tres utilise universites US, mobile",Instructure,https://www.instructure.com/canvas
+formation_elearning_cornerstone_ondemand,Cornerstone OnDemand,Chamilo,GPL-3.0,A,forte,BE,PHP/MySQL,"LMS europeen, 11M+ users, tres accessible, conformite",Chamilo Association,https://chamilo.org
+formation_elearning_cornerstone_ondemand,Cornerstone OnDemand,ILIAS,GPL-3.0,A,forte,DE,PHP/MySQL,"LMS allemand, conformite, SCORM, tres mature",ILIAS open source,https://www.ilias.de
+formation_elearning_cornerstone_ondemand,Cornerstone OnDemand,OpenEdX,AGPL-3.0,A,tres forte,US,Python/Django,"MOOC platform, MIT/Harvard heritage, xBlock, tres scalable","tCRIL, edX",https://open.edx.org
+formation_elearning_docebo,Docebo,Moodle,GPL-3.0,A,tres forte,AU,PHP/MySQL,"LMS complet, enterprise possible, reporting",Moodle Pty Ltd,https://moodle.org
+formation_elearning_docebo,Docebo,Chamilo,GPL-3.0,A,forte,BE,PHP/MySQL,"Europeen, accessible, conformite",Chamilo Association,https://chamilo.org
+formation_elearning_docebo,Docebo,ILIAS,GPL-3.0,A,forte,DE,PHP/MySQL,"Allemand, conformite, SCORM",ILIAS,https://www.ilias.de
+formation_elearning_sap_litmos,SAP Litmos,Moodle,GPL-3.0,A,tres forte,AU,PHP/MySQL,LMS complet,Moodle Pty Ltd,https://moodle.org
+formation_elearning_sap_litmos,SAP Litmos,Chamilo,GPL-3.0,A,forte,BE,PHP/MySQL,Europeen,Chamilo Association,https://chamilo.org
+helpdesk_servicenow,ServiceNow,GLPI,GPL-2.0,A,tres forte,FR,PHP/MySQL,"ITSM complet, inventaire, helpdesk, CMDB, francais, tres mature",Teclib,https://glpi-project.org
+helpdesk_servicenow,ServiceNow,iTop,AGPL-3.0,A,forte,FR,PHP/MySQL,"ITSM, CMDB, service catalog, francais, ITIL",Combodo,https://www.itophub.io
+helpdesk_servicenow,ServiceNow,Zammad,AGPL-3.0,A,forte,DE,Ruby/PostgreSQL,"Helpdesk moderne, omnichannel, tres elegant, self-hosted",Zammad,https://zammad.org
+helpdesk_servicenow,ServiceNow,osTicket,GPL-2.0,A,forte,US,PHP/MySQL,"Helpdesk leger, tres populaire, facile a deployer",Enhancesoft,https://osticket.com
+helpdesk_servicenow,ServiceNow,Request Tracker (RT),GPL-2.0,A,forte,US,Perl/PostgreSQL,"Ticketing tres mature, email integration, SLA",Best Practical,https://bestpractical.com
+helpdesk_zendesk,Zendesk,Zammad,AGPL-3.0,A,forte,DE,Ruby/PostgreSQL,"Helpdesk moderne, omnichannel, self-hosted",Zammad,https://zammad.org
+helpdesk_zendesk,Zendesk,osTicket,GPL-2.0,A,forte,US,PHP/MySQL,"Helpdesk leger, populaire",Enhancesoft,https://osticket.com
+helpdesk_zendesk,Zendesk,GLPI,GPL-2.0,A,tres forte,FR,PHP/MySQL,"ITSM + helpdesk, inventaire",Teclib,https://glpi-project.org
+helpdesk_freshdesk,Freshdesk,Zammad,AGPL-3.0,A,forte,DE,Ruby/PostgreSQL,Helpdesk moderne,Zammad,https://zammad.org
+helpdesk_freshdesk,Freshdesk,osTicket,GPL-2.0,A,forte,US,PHP/MySQL,Leger,Enhancesoft,https://osticket.com
+helpdesk_freshdesk,Freshdesk,GLPI,GPL-2.0,A,tres forte,FR,PHP/MySQL,ITSM complet,Teclib,https://glpi-project.org
+cartographie_sig_arcgis,ArcGIS,QGIS,GPL-2.0,A,tres forte,CH,"Shapefile, GeoJSON, GeoPackage, PostGIS, WMS","SIG complet, plugins riches, standard industrie, tres mature",Multiple,https://qgis.org
+cartographie_sig_arcgis,ArcGIS,GRASS GIS,GPL-2.0,A,tres forte,US,Multiple,"Analyse geospatiale avancee, modelisation, raster/vector",OSGeo,https://grass.osgeo.org
+cartographie_sig_arcgis,ArcGIS,GeoServer,GPL-2.0,A,tres forte,IT,WMS/WFS/WCS,"Serveur cartographique, OGC compliant, styling SLD",GeoSolutions,https://geoserver.org
+cartographie_sig_arcgis,ArcGIS,MapServer,MIT,A,forte,US,WMS/WFS,"Serveur cartographique, tres rapide, MapScript",OSGeo,https://mapserver.org
+cartographie_sig_arcgis,ArcGIS,OpenLayers,BSD-2,A,tres forte,US,Web mapping,"Bibliotheque carto web, tres puissante, vector tiles",OSGeo,https://openlayers.org
+cartographie_sig_google_maps_platform,Google Maps Platform,OpenStreetMap + Nominatim,ODbL,A,tres forte,UK,"OSM XML, PBF","Carte libre du monde, editable, geocodage, routing",OSMF,https://www.openstreetmap.org
+cartographie_sig_google_maps_platform,Google Maps Platform,MapLibre GL,BSD-3,A,tres forte,US,Vector tiles,"Moteur carto web, fork Mapbox GL, 100% libre, self-hosted tiles",MapLibre,https://maplibre.org
+cartographie_sig_google_maps_platform,Google Maps Platform,Leaflet,BSD-2,A,tres forte,UA,Web tiles,"Bibliotheque carto web legere, tres populaire, plugins",Communautaire,https://leafletjs.com
+cartographie_sig_google_maps_platform,Google Maps Platform,PostGIS,GPL-2.0,A,tres forte,US,PostgreSQL extension,"Extension geospatiale PostgreSQL, tres puissante, raster","Crunchy Data, etc.",https://postgis.net
+cartographie_sig_mapbox,Mapbox,MapLibre GL,BSD-3,A,tres forte,US,Vector tiles,"Fork Mapbox GL, 100% libre, self-hosted tiles, style JSON",MapLibre,https://maplibre.org
+cartographie_sig_mapbox,Mapbox,OpenStreetMap,ODbL,A,tres forte,UK,OSM,"Donnees carto libres, editable",OSMF,https://www.openstreetmap.org
+cartographie_sig_mapbox,Mapbox,Leaflet,BSD-2,A,tres forte,UA,Web tiles,"Legere, populaire, plugins",Communautaire,https://leafletjs.com
+impression_papercut,PaperCut,CUPS,Apache-2.0,A,tres forte,US,IPP,"Systeme d'impression standard Linux/Unix, IPP Everywhere, tres mature",OpenPrinting,https://www.cups.org
+impression_papercut,PaperCut,PyKota,GPL-2.0,B,moyenne,FR,CUPS,"Quota d'impression, accounting, pre/post-processing, francais",PyKota,https://www.pykota.com
+impression_papercut,PaperCut,Tea4CUPS,GPL-2.0,B,faible,FR,CUPS,"Watermark, pre/post-processing impressions, francais",PyKota,https://www.pykota.com/software/tea4cups
+impression_papercut,PaperCut,Gutenprint,GPL-2.0,A,forte,US,Multiple,"Drivers imprimantes haute qualite, CUPS integration",Communautaire,https://gimp-print.sourceforge.io
+impression_printerlogic,PrinterLogic,CUPS,Apache-2.0,A,tres forte,US,IPP,"Impression standard, mature, IPP Everywhere",OpenPrinting,https://www.cups.org
+impression_printerlogic,PrinterLogic,PyKota,GPL-2.0,B,moyenne,FR,CUPS,"Quota, accounting, francais",PyKota,https://www.pykota.com
+impression_hp_jetadvantage,HP JetAdvantage,CUPS,Apache-2.0,A,tres forte,US,IPP,"Impression standard, mature",OpenPrinting,https://www.cups.org
+impression_hp_jetadvantage,HP JetAdvantage,PyKota,GPL-2.0,B,moyenne,FR,CUPS,"Quota, accounting, francais",PyKota,https://www.pykota.com
